@@ -1,0 +1,4 @@
+together
+simple_parsing
+anthropic
+openai
